@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 PROJEKTY/10.1 OSOBNI/Data Engineer 2026.md",
+                "file": "10 PROJEKTY/10.1 OSOBNI/Plán-Data-Engineer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Engineer 2026"
+              "title": "Plán-Data-Engineer"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 PROJEKTY/10.1 OSOBNI/Data Engineer 2026.md",
+                "file": "10 PROJEKTY/10.1 OSOBNI/Plán-Data-Engineer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Zpětné odkazy pro Data Engineer 2026"
+              "title": "Zpětné odkazy pro Plán-Data-Engineer"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 PROJEKTY/10.1 OSOBNI/Data Engineer 2026.md",
+                "file": "10 PROJEKTY/10.1 OSOBNI/Plán-Data-Engineer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Odchozí odkazy z Data Engineer 2026"
+              "title": "Odchozí odkazy z Plán-Data-Engineer"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 PROJEKTY/10.1 OSOBNI/Data Engineer 2026.md",
+                "file": "10 PROJEKTY/10.1 OSOBNI/Plán-Data-Engineer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Přehled Data Engineer 2026"
+              "title": "Přehled Plán-Data-Engineer"
             }
           }
         ]
@@ -169,24 +169,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "6e97bf1093a84d8e",
+  "active": "3ebba40abdf4602c",
   "lastOpenFiles": [
+    "20 OBLASTI/LinkedIn.md",
+    "10 PROJEKTY/10.1 OSOBNI/Seznam modulů.md",
+    "10 PROJEKTY/10.1 OSOBNI/00-START-HERE.md",
+    "10 PROJEKTY/10.1 OSOBNI/Data Engineer 2026.md",
+    "10 PROJEKTY/10.1 OSOBNI/Plán-Data-Engineer.md",
+    "10 PROJEKTY/10.1 OSOBNI/00-WEEKLY-Plan-23-Tydnu-Detail.md",
+    "10 PROJEKTY/10.1 OSOBNI/Kompletni-Plan-Data-Engineer-2026-MARKDOWN.md",
+    "10 PROJEKTY/10.1 OSOBNI/Data Engineer 2026 - kopie.md",
     "40 ARCHIV/trash.txt",
     "40 ARCHIV/Nový Textový dokument.txt",
     "30_ZDROJE/30.3_TEMPLATES/eNový Textový dokument.txt",
     "30_ZDROJE/30.3_TEMPLATES/Nový Textový dokument.txt",
     "30_ZDROJE/30.1_ODKAZY/Nový Textový dokument.txt",
-    "20 OBLASTI/empti1.md",
     "20 OBLASTI/Data Engineer 2026.md",
-    "10 PROJEKTY/10.1 OSOBNI/Data Engineer 2026 - kopie.md",
-    "00_FEED/empty.md",
     "00_FEED/Nový Textový dokument.txt",
     "00_FEED/Nová složka",
     "data-engineer-study-2026/10 PROJEKTY/10.1 OSOBNI/Data Engineer 2026.md",
     "data-engineer-study-2026/10 PROJEKTY/10.1 OSOBNI",
     "data-engineer-study-2026/10 PROJEKTY",
-    "data-engineer-study-2026",
-    "30_ZDROJE/30.3_TEMPLATES",
-    "10 PROJEKTY/10.1 OSOBNI/Data Engineer 2026.md"
+    "data-engineer-study-2026"
   ]
 }
