@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 PROJEKTY/10.1 OSOBNI/Plán-Data-Engineer.md",
+                "file": "00_FEED/00 - HOW TO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plán-Data-Engineer"
+              "title": "00 - HOW TO"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 PROJEKTY/10.1 OSOBNI/Plán-Data-Engineer.md",
+                "file": "00_FEED/00 - HOW TO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Zpětné odkazy pro Plán-Data-Engineer"
+              "title": "Zpětné odkazy pro 00 - HOW TO"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 PROJEKTY/10.1 OSOBNI/Plán-Data-Engineer.md",
+                "file": "00_FEED/00 - HOW TO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Odchozí odkazy z Plán-Data-Engineer"
+              "title": "Odchozí odkazy z 00 - HOW TO"
             }
           },
           {
@@ -142,13 +142,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 PROJEKTY/10.1 OSOBNI/Plán-Data-Engineer.md",
+                "file": "00_FEED/00 - HOW TO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Přehled Plán-Data-Engineer"
+              "title": "Přehled 00 - HOW TO"
+            }
+          },
+          {
+            "id": "3963300d0467b7c9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Všechny vlastnosti"
             }
           }
         ]
@@ -166,16 +180,28 @@
       "daily-notes:Otevřít dnešní poznámku": false,
       "templates:Vložit šablonu": false,
       "command-palette:Otevřít paletu příkazů": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "markdown-importer:Otevřít importér Markdown formátu": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "3ebba40abdf4602c",
   "lastOpenFiles": [
+    "00_FEED/02 TRACKER/XP-Tracker.md",
+    "00_FEED/03 MONTHLY REVIEWS/Monthly-Review-November.md",
+    "00_FEED/00 - HOW TO.md",
+    "00_FEED/01 DAILY NOTES/2025-11-02 44.t.md",
+    "30_ZDROJE/30.2_iNTEGRATIONS/GitHub-setup.md",
+    "10 PROJEKTY/10.1 OSOBNI/Plán-Data-Engineer.md",
+    "30_ZDROJE/30.2_iNTEGRATIONS",
+    "10 PROJEKTY/10.1 OSOBNI/00-START-HERE.md",
+    "10 PROJEKTY/10.1 OSOBNI/00-INDEX-Vsechny-Moduly.md",
+    "00_FEED/02 TRACKER",
+    "00_FEED/03 MONTHLY REVIEWS",
+    "00_FEED/01 DAILY NOTES",
     "20 OBLASTI/LinkedIn.md",
     "10 PROJEKTY/10.1 OSOBNI/Seznam modulů.md",
-    "10 PROJEKTY/10.1 OSOBNI/00-START-HERE.md",
     "10 PROJEKTY/10.1 OSOBNI/Data Engineer 2026.md",
-    "10 PROJEKTY/10.1 OSOBNI/Plán-Data-Engineer.md",
     "10 PROJEKTY/10.1 OSOBNI/00-WEEKLY-Plan-23-Tydnu-Detail.md",
     "10 PROJEKTY/10.1 OSOBNI/Kompletni-Plan-Data-Engineer-2026-MARKDOWN.md",
     "10 PROJEKTY/10.1 OSOBNI/Data Engineer 2026 - kopie.md",
@@ -186,10 +212,6 @@
     "30_ZDROJE/30.1_ODKAZY/Nový Textový dokument.txt",
     "20 OBLASTI/Data Engineer 2026.md",
     "00_FEED/Nový Textový dokument.txt",
-    "00_FEED/Nová složka",
-    "data-engineer-study-2026/10 PROJEKTY/10.1 OSOBNI/Data Engineer 2026.md",
-    "data-engineer-study-2026/10 PROJEKTY/10.1 OSOBNI",
-    "data-engineer-study-2026/10 PROJEKTY",
-    "data-engineer-study-2026"
+    "data-engineer-study-2026/10 PROJEKTY/10.1 OSOBNI/Data Engineer 2026.md"
   ]
 }

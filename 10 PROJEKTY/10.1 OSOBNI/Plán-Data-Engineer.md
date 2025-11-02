@@ -190,13 +190,13 @@ git log --oneline
 
 #### 📋 Checklist
 
-- [ ] Git je nainstalovaný (`git --version`)
-- [ ] GitHub účet vytvořen
-- [ ] SSH klíče nastavené (test prošel)
-- [ ] Local repo vytvořen
-- [ ] GitHub repo vytvořen
-- [ ] Push na GitHub funguje
-- [ ] Mám 3+ commity
+- [x] Git je nainstalovaný (`git --version`)
+- [x] GitHub účet vytvořen
+- [x] SSH klíče nastavené (test prošel)
+- [x] Local repo vytvořen
+- [x] GitHub repo vytvořen
+- [x] Push na GitHub funguje
+- [x] Mám 3+ commity
 
 ---
 
