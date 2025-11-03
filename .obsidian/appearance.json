@@ -1,4 +1,5 @@
 {
-  "accentColor": "#0c5a32",
-  "interfaceFontFamily": "roboto"
+  "accentColor": "#264a2f",
+  "interfaceFontFamily": "roboto",
+  "theme": "obsidian"
 }

@@ -355,14 +355,14 @@ Cvičení 3: Propoj poznámky
 
 #### 📋 Checklist
 
-- [ ] Obsidian nainstalovaný
-- [ ] Vault vytvořen
-- [ ] P.A.R.A. složky vytvořené
-- [ ] Daily Notes plugin aktivní
-- [ ] Templater plugin aktivní
-- [ ] Templates vytvořené
-- [ ] Obsidian je propojen s Git repo
-- [ ] První Daily note funguje
+- [x] Obsidian nainstalovaný
+- [x] Vault vytvořen
+- [x] P.A.R.A. složky vytvořené
+- [x] Daily Notes plugin aktivní
+- [x] Templater plugin aktivní
+- [x] Templates vytvořené
+- [x] Obsidian je propojen s Git repo
+- [x] První Daily note funguje
 
 ---
 

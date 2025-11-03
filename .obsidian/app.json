@@ -1,5 +1,6 @@
 {
   "showLineNumber": true,
   "vimMode": false,
-  "uriCallbacks": true
+  "uriCallbacks": true,
+  "promptDelete": false
 }

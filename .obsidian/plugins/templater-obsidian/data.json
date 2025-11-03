@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "00_FEED",
-      "template": ""
+      "folder": "00_FEED/01 DAILY NOTES",
+      "template": "30_ZDROJE/30.3_TEMPLATES/Daily-Note-Template.md"
     }
   ],
   "enable_file_templates": false,

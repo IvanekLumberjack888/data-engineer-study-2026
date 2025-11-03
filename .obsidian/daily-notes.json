@@ -1,4 +1,6 @@
 {
-  "format": "YYYY-MM-DD w.t",
-  "folder": "00_FEED/01 DAILY NOTES"
+  "format": "YYYY-MM-DD",
+  "folder": "00_Ivo Doležal 🧙‍♂️/01 DAILY PAGES",
+  "template": "30_ZDROJE/33 TEMPLATES/Daily-Note",
+  "autorun": true
 }

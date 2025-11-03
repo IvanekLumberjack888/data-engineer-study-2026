@@ -316,23 +316,6 @@ Naplánuj další týden
 
 ***
 
-## 📱 JEDNODUCHÝ ZPŮSOB (Excel nebo Google Sheets)
-
-Pokud nechceš v Obsidianu, můžeš:
-
-**Google Sheets:**
-
-```
-Sloupce:
-Date | Day | XP | Cumulative | Level | Notes
-
-2025-11-02 | 1 | 45 | 45 | L1 | Git setup
-2025-11-03 | 2 | __ | __ | L1 | ...
-```
-
-
-***
-
 ## 🚀 NEJJEDNODUŠŠÍ (Začni takhle):
 
 **Jen Daily Notes!**
