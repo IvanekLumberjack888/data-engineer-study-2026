@@ -22,7 +22,9 @@ git remote -v                              # Zkontroluj remotes
 ```
 
 ### Staging & Committing
+
 ```bash
+cd "H:\Můj disk\DATA ENGINEER JOURNEY"
 git status                                  # Pokaž status
 git add .                                   # Přidej všechno
 git add file.py                             # Přidej konkrétní soubor

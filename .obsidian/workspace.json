@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 PROJEKTY/10.1 OSOBNI/Plán-Data-Engineer.md",
+                "file": "10 PROJEKTY/10.1 OSOBNI/CHEAT-SHEET-Vsechny-Prikazy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Plán-Data-Engineer"
+              "title": "CHEAT-SHEET-Vsechny-Prikazy"
             }
           }
         ]
@@ -171,8 +171,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "Všechny vlastnosti"
+              "icon": "lucide-ghost",
+              "title": "all-properties"
             }
           }
         ]
@@ -184,6 +184,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Spustit/zastavit nahrávání": false,
+      "workspaces:Manage workspace layouts": false,
       "switcher:Otevřít rychlé přepínání": false,
       "graph:Otevřít graf": false,
       "canvas:Vytvořit nový canvas": false,
@@ -198,16 +200,24 @@
   },
   "active": "1559ec07477cf702",
   "lastOpenFiles": [
-    "10 PROJEKTY/10.1 OSOBNI/Data engineer 2026/001-Git-GitHub-Basics.md",
-    "10 PROJEKTY/10.1 OSOBNI/Data engineer 2026/00-START-HERE.md",
+    "00_FEED/01 DAILY NOTES/2025-11-04.md",
     "10 PROJEKTY/10.1 OSOBNI/Seznam modulů.md",
-    "10 PROJEKTY/10.1 OSOBNI/Data engineer 2026/00-WEEKLY-Plan-23-Tydnu-Detail.md",
     "10 PROJEKTY/10.1 OSOBNI/Plán-Data-Engineer.md",
+    "10 PROJEKTY/10.1 OSOBNI/CHEAT-SHEET-Vsechny-Prikazy.md",
+    "10 PROJEKTY/10.1 OSOBNI/Ivo-Technicke-Navody.md",
+    "20_OBLASTI/LinkedIn.md",
+    "30_ZDROJE/30.2_INTEGRATIONS/Claude-Perplexity-strategy.md",
+    "30_ZDROJE/30.2_INTEGRATIONS/GitHub-setup.md",
+    "30_ZDROJE/30.2_INTEGRATIONS",
     "00_FEED/02 TRACKER/XP-Tracker.md",
+    "00_Ivo Doležal 🧙‍♂️/01 DAILY PAGES/2025-11-03.md",
+    "10 PROJEKTY/10.1 OSOBNI/Data engineer 2026/Git commit.md",
     "00_FEED/00 - HOW TO.md",
     "00_FEED/00 - HOW TO 2.0.md",
+    "10 PROJEKTY/10.1 OSOBNI/Data engineer 2026/001-Git-GitHub-Basics.md",
+    "10 PROJEKTY/10.1 OSOBNI/Data engineer 2026/00-START-HERE.md",
+    "10 PROJEKTY/10.1 OSOBNI/Data engineer 2026/00-WEEKLY-Plan-23-Tydnu-Detail.md",
     "00_FEED/01 DAILY NOTES/2025-11-02 44.t.md",
-    "00_Ivo Doležal 🧙‍♂️/01 DAILY PAGES/2025-11-03.md",
     "20_OBLASTI/21 OSOBNI/21.3 FINANCE/Fin/Tereza/V000007.PDF",
     "20_OBLASTI/21 OSOBNI/21.4 Zbytek/CVs/Životopis_Doležal_IvoCZ.pdf",
     "30_ZDROJE/32 KNIHOVNA/32.3 OBRÁZKY/Doležal POV.png",
@@ -220,7 +230,6 @@
     "20_OBLASTI/22 RODINA/22.1 PETINKA/Svatebni/IMG-20230630-WA0126.jpg",
     "20_OBLASTI/21 OSOBNI/21.3 FINANCE/Fin/POJIŠTĚNÍ/Ukončení smlouvy.pdf.pdf",
     "20_OBLASTI/21 OSOBNI/21.4 Zbytek/Fotky/IMG_20181124_083345.jpg",
-    "20_OBLASTI/21 OSOBNI/21.3 FINANCE/Fin/DANE/za rok 2021/DPFDP6-8707064421-20220318-074855.pdf",
     "20_OBLASTI/22 RODINA/22.1 PETINKA/Svatebni/IMG-20230630-WA0000.jpg",
     "20_OBLASTI/21 OSOBNI/21.4 Zbytek/HOUSE(our)/Dům Katka 15 C _ Ekonomické stavby_files/F.jpg",
     "20_OBLASTI/22 RODINA/22.1 PETINKA/Svatebni/IMG-20230630-WA0154.jpg",
@@ -236,13 +245,6 @@
     "10_PROJEKTY/11 MOJE PROJEKTY/11.0 Data Engineer Study 2026/Kompletní studijní kurz od A do Z - krok po kroku/GAMIFIED-Studijni-Plan-s-XP-Levely-Badges.md",
     "10_PROJEKTY/11 MOJE PROJEKTY/11.0 Data Engineer Study 2026/Kompletní studijní kurz od A do Z - krok po kroku/Komplexní průvodce vaší cestou do Data Engineering.md",
     "30_ZDROJE/32 KNIHOVNA/32.1 YOUTUBE/PYTHON - YT, Conax/Python pro začátečníky - Conax.md",
-    "10_PROJEKTY/11 MOJE PROJEKTY/11.0 Data Engineer Study 2026/Kompletní studijní kurz od A do Z - krok po kroku/Kompletní studijní kurz od A do Z - krok po kroku.md",
-    "10_PROJEKTY/11 MOJE PROJEKTY/11.0 Data Engineer Study 2026/Kompletní studijní kurz od A do Z - krok po kroku/Do března mam Perplexity Pro. Jak to tedy zatím vy.md",
-    "10_PROJEKTY/11 MOJE PROJEKTY/11.0 Data Engineer Study 2026/Kompletní studijní kurz od A do Z - krok po kroku/Tracking-Templates-Google-GitHub-Obsidian.md",
-    "10_PROJEKTY/11 MOJE PROJEKTY/11.0 Data Engineer Study 2026/Kompletní studijní kurz od A do Z - krok po kroku/Ivo-Technicke-Navody.md",
-    "10_PROJEKTY/11 MOJE PROJEKTY/11.0 Data Engineer Study 2026/Kompletní studijní kurz od A do Z - krok po kroku/Setup-Notebook-TV-Multiscreen.md",
-    "10_PROJEKTY/11 MOJE PROJEKTY/11.0 Data Engineer Study 2026/Kompletní studijní kurz od A do Z - krok po kroku/000-INDEX-Studialni-Plán.md",
-    "10_PROJEKTY/11 MOJE PROJEKTY/11.0 Data Engineer Study 2026/Kompletní studijní kurz od A do Z - krok po kroku/CHEAT-SHEET-Vsechny-Prikazy.md",
-    "10_PROJEKTY/11 MOJE PROJEKTY/11.0 Data Engineer Study 2026/Kompletní studijní kurz od A do Z - krok po kroku/jen se zeptám jaký máš názor na tohle_ [https___by.md"
+    "10_PROJEKTY/11 MOJE PROJEKTY/11.0 Data Engineer Study 2026/Kompletní studijní kurz od A do Z - krok po kroku/Kompletní studijní kurz od A do Z - krok po kroku.md"
   ]
 }

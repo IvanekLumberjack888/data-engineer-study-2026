@@ -133,9 +133,9 @@
 - LLM/RAG implementation
 - **JOB READY!** 💼
 
+## 📊 CELKOVÁ STATISTIKA
 ---
 
-## 📊 CELKOVÁ STATISTIKA
 
 ```
 CELKOVÁ DOBA: 149 dní (3.11.2025 - 31.3.2026)
