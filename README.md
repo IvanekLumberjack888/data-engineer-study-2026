@@ -1,7 +1,7 @@
-# 🎯 Data Engineer Study 2026 - Fabric Quest 50
+# 🎯 DATA ENGINEER JOURNEY 2026 - Fabric Quest 50
 
 > **Mission:** Pass DP-700 Microsoft Fabric Data Engineer certification in 50 days  
-> **Timeline:** Nov 6, 2025 → Dec 25, 2025  
+> **Timeline:** Nov 6, 2025 → Dec 25, 2025  (MODIFIED CHANGES - START Nov 12, 2025)
 > **Approach:** 70% hands-on labs, 30% theory  
 > **XP Target:** 5,000+ XP = Fabric Engineer Level ✅
 
@@ -128,53 +128,17 @@ data-engineer-study-2026/
 - [Fabric Trial](https://app.fabric.microsoft.com)
 
 ### Free Learning
-- **YouTube:** Aleksi Partanen (11h Fabric course)
+- **YouTube:** Aleksi Partanen (11h Fabric course), Baara, any others
 - **Practice:** [Certiace.com](https://certiace.com) (100+ free questions)
 - **Community:** [Fabric Forums](https://community.fabric.microsoft.com)
-
----
-
-## 🏆 Progress Tracker
-
-**Current Status:**
-- **Days Completed:** 1 / 50
-- **XP Earned:** 20 / 5,000
-- **Level:** Novice (Initiate)
-- **Quests Done:** 1 / 50
-- **Labs Complete:** 0 / 7
-- **Boss Battles:** 0 / 7
-
-**Latest Commit:**
-```
-DAY 1: Setup complete - PARA structure + templates (+20 XP)
-```
-
-**Next Milestone:** Week 1 Boss Battle (Day 7)
-
----
-
-## 📊 Commit History
-
-This repo uses **daily commits** to track progress. Each commit = one study session.
-
-**Commit message format:**
-```
-DAY X: [Topic] - [Activity] (+XP)
-
-Example:
-DAY 3: Medallion Architecture - Study notes + diagram (+15 XP)
-DAY 7: BOSS BATTLE 1 - Quiz 85/100 score (+50 XP)
-```
-
-**GitHub Contributions Graph Goal:** 50 consecutive green squares! 🟩🟩🟩
 
 ---
 
 ## 🤝 Connect & Follow
 
 - **GitHub:** [@IvanekLumberjack888](https://github.com/IvanekLumberjack888)
-- **LinkedIn:** [Coming soon - after certification!]
-- **Blog:** [Maybe? We'll see after DP-700]
+- **LinkedIn:** [I have 😉]
+- **Website:** [Check..](https://github.com/IvanekLumberjack888/IvanekLumberjack888.github.io/blob/main/index.html)
 
 **Status updates:** Watch this repo to follow my progress!
 
